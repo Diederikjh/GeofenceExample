@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeofenceExample</string>
+    <string name="geofence_not_available">Geofence not avaiable</string>
+    <string name="geofence_too_many_geofences">Too many geofences</string>
+    <string name="geofence_too_many_pending_intents">Too many pending intents</string>
+    <string name="geofence_transition_invalid_type">Invalid geofence type</string>
+</resources>
