@@ -1,0 +1,309 @@
+<customers>
+ <customer id='1547' name='BAILUNDO' latitude='-12.192825' longitude='15.857456' accuracy='1000.0' />
+ <customer id='1548' name='SUMBE' latitude='-11.2114397865932' longitude='13.8462831778511' accuracy='1000.0' />
+ <customer id='1549' name='PORTO AMBOIM' latitude='-10.7309332571704' longitude='13.7522229618546' accuracy='1000.0' />
+ <customer id='1550' name='GABELA' latitude='-10.850681' longitude='14.371125' accuracy='1000.0' />
+ <customer id='1551' name='NDALANTANDO' latitude='-9.29932145025482' longitude='14.9114268590202' accuracy='1000.0' />
+ <customer id='1552' name='CAALA' latitude='-12.8530343892143' longitude='15.5591274476953' accuracy='1000.0' />
+ <customer id='1553' name='WACO-KUNGO' latitude='-11.359366' longitude='15.120911' accuracy='1000.0' />
+ <customer id='1554' name='HUAMBO 2' latitude='-12.7912448192747' longitude='15.7452025454214' accuracy='1000.0' />
+ <customer id='1555' name='MENONGUE' latitude='-14.6572984639761' longitude='17.682349225729' accuracy='1000.0' />
+ <customer id='1556' name='HUAMBO 3' latitude='-12.7669965947595' longitude='15.7475078917945' accuracy='1000.0' />
+ <customer id='1557' name='KUITO 2' latitude='-12.3948549636427' longitude='16.9368270309472' accuracy='1000.0' />
+ <customer id='1558' name='KUITO' latitude='-12.3739697107069' longitude='16.9400143794536' accuracy='1000.0' />
+ <customer id='1559' name='HUAMBO' latitude='-12.7676366289566' longitude='15.7270925797816' accuracy='1000.0' />
+ <customer id='1560' name='LUANDA VIANA SHOPRITE' latitude='-8.9320105' longitude='13.3523594' accuracy='1000.0' />
+ <customer id='1561' name='LUANDA ALIMENTA' latitude='-8.8838397' longitude='13.3421536' accuracy='1000.0' />
+ <customer id='1562' name='LUANDA 14 KIMBANGU' latitude='-8.8776474' longitude='13.2782779' accuracy='1000.0' />
+ <customer id='1563' name='LUANDA 12 GOLFE' latitude='-8.8961496' longitude='13.2131598' accuracy='1000.0' />
+ <customer id='1564' name='LUANDA. RUA DIRETA PATRIOTA' latitude='-8.93026469522019' longitude='13.1633305553464' accuracy='1000.0' />
+ <customer id='1565' name='LUANDA.CAPOLO' latitude='-8.8617371' longitude='13.2803599' accuracy='1000.0' />
+ <customer id='1566' name='LUANDA 8 PALANCA' latitude='-8.8510207205223' longitude='13.2806759272384' accuracy='1000.0' />
+ <customer id='1567' name='LUANDA 6 VIANA VILLA' latitude='-8.9115959' longitude='13.3706801' accuracy='1000.0' />
+ <customer id='1568' name='LUANDA 7 GRAFANIL' latitude='-8.8969718' longitude='13.3513325' accuracy='1000.0' />
+ <customer id='1569' name='LUANDA HOJI YA HENDA' latitude='-8.8156883' longitude='13.2784187' accuracy='1000.0' />
+ <customer id='1570' name='LUANDA KIKOLO' latitude='-8.78333618544155' longitude='13.3250460986884' accuracy='1000.0' />
+ <customer id='1571' name='LUANDA.PRENDA' latitude='-8.8404592' longitude='13.2294562' accuracy='1000.0' />
+ <customer id='1572' name='LUANDA SAMBA' latitude='-8.85260242011187' longitude='13.205555435272' accuracy='1000.0' />
+ <customer id='1573' name='LUANDA.SIMIONI' latitude='-8.901979' longitude='13.258261' accuracy='1000.0' />
+ <customer id='1574' name='LUANDA 4 MORRO BENTO' latitude='-8.8972775344242' longitude='13.2517299543398' accuracy='1000.0' />
+ <customer id='1575' name='LUANDA.MORRO BENTO.UNIVERSAL' latitude='-8.8912865' longitude='13.2004122' accuracy='1000.0' />
+ <customer id='1576' name='LUANDA JUMBO' latitude='-8.8319986' longitude='13.2501938' accuracy='1000.0' />
+ <customer id='1577' name='BENFICA' latitude='-8.96249054632356' longitude='13.1512229855749' accuracy='1000.0' />
+ <customer id='1578' name='LUANDA 1 NOVA VIDA' latitude='-8.91105291574644' longitude='13.2380120483012' accuracy='1000.0' />
+ <customer id='1579' name='LUANDA 11 CAMAMA' latitude='-8.90295889029858' longitude='13.2711269878122' accuracy='1000.0' />
+ <customer id='1580' name='LUANDA NOVA VIDA KERO' latitude='-8.895844' longitude='13.224644' accuracy='1000.0' />
+ <customer id='1581' name='LUANDA 2 ZANGO' latitude='-9.009233' longitude='13.400852' accuracy='1000.0' />
+ <customer id='1582' name='LUANDA 5 CALEMBA' latitude='-8.9124048900349' longitude='13.2922086012759' accuracy='1000.0' />
+ <customer id='1583' name='LUANDA KILAMBA' latitude='-8.98315279509147' longitude='13.2902686386575' accuracy='1000.0' />
+ <customer id='1584' name='UIGE' latitude='-7.60010671150555' longitude='15.0493648729787' accuracy='1000.0' />
+ <customer id='1585' name='MALANGE' latitude='-9.550661' longitude='16.353292' accuracy='1000.0' />
+ <customer id='1586' name='CAXITO' latitude='-8.58408016451927' longitude='13.655311520945' accuracy='1000.0' />
+ <customer id='1587' name='LUANDA 9 CACUACO' latitude='-8.7763607588127' longitude='13.3660416256634' accuracy='1000.0' />
+ <customer id='1588' name='SOYO' latitude='-6.13221888167609' longitude='12.3749087510869' accuracy='1000.0' />
+ <customer id='1589' name='LUANDA 10 IMBONDEIRO' latitude='-8.80241615310418' longitude='13.3084960906967' accuracy='1000.0' />
+ <customer id='1590' name='LUANDA 3 NOCAL' latitude='-8.80949475119912' longitude='13.2791986676154' accuracy='1000.0' />
+ <customer id='1591' name='MATALA' latitude='-14.7373446' longitude='15.0301535' accuracy='1000.0' />
+ <customer id='1592' name='ONDJIVA' latitude='-17.0651429586793' longitude='15.7292797616502' accuracy='1000.0' />
+ <customer id='1593' name='NAMIBE' latitude='-15.1930849974235' longitude='12.1503078898204' accuracy='1000.0' />
+ <customer id='1594' name='SUMBE SHOPRITE' latitude='-11.1945025361848' longitude='13.8494956984871' accuracy='1000.0' />
+ <customer id='1595' name='BENGUELA.SHOPRITE' latitude='-12.5953002418763' longitude='13.3859949254758' accuracy='1000.0' />
+ <customer id='1596' name='LUBANGO 3' latitude='-14.9236433176372' longitude='13.476002440535' accuracy='1000.0' />
+ <customer id='1597' name='MENONGUE (2) AIRPORT RD' latitude='-14.6622794945083' longitude='17.699356161501' accuracy='1000.0' />
+ <customer id='1598' name='LOBITO BELA VISTA' latitude='-12.379754' longitude='13.5742618' accuracy='1000.0' />
+ <customer id='1599' name='LUBANGO 1' latitude='-12.6875101' longitude='13.3409834' accuracy='1000.0' />
+ <customer id='1600' name='LOBITO' latitude='-12.3637584132204' longitude='13.551063900188' accuracy='1000.0' />
+ <customer id='1601' name='BENGUELA' latitude='-12.5767777675005' longitude='13.4104112891568' accuracy='1000.0' />
+ <customer id='1602' name='KASUNGU' latitude='-13.0425978087261' longitude='33.4799248084622' accuracy='1000.0' />
+ <customer id='1603' name='SALIMA' latitude='-13.78586213878' longitude='34.4564404227773' accuracy='1000.0' />
+ <customer id='1604' name='NCHALO' latitude='-16.2609873001213' longitude='34.8687166408764' accuracy='1000.0' />
+ <customer id='1605' name='MANGOCHI' latitude='-14.4835731262162' longitude='35.2598819964367' accuracy='1000.0' />
+ <customer id='1606' name='MZUZU SHOPRITE' latitude='-13.05499' longitude='33.4776' accuracy='1000.0' />
+ <customer id='1607' name='CHICHIRI' latitude='-15.8024638576297' longitude='35.0339291475271' accuracy='1000.0' />
+ <customer id='1608' name='LILONGWE 2' latitude='-13.9744841' longitude='33.746138' accuracy='1000.0' />
+ <customer id='1609' name='LILONGWE 1' latitude='-13.9558317' longitude='33.7961048' accuracy='1000.0' />
+ <customer id='1610' name='ZOMBA' latitude='-15.3921775' longitude='35.3128701' accuracy='1000.0' />
+ <customer id='1611' name='LILONGWE 3' latitude='-13.9906007' longitude='33.7761441' accuracy='1000.0' />
+ <customer id='1612' name='MZUZU  2' latitude='-11.4597890210878' longitude='34.0174459618353' accuracy='1000.0' />
+ <customer id='1613' name='BLANTYRE 1' latitude='-15.7730667' longitude='35.0416164' accuracy='1000.0' />
+ <customer id='1614' name='LIMBE' latitude='-15.8083284' longitude='35.0369413' accuracy='1000.0' />
+ <customer id='1615' name='BLANTYRE 2' latitude='-15.7856195250852' longitude='35.0092172048681' accuracy='1000.0' />
+ <customer id='1616' name='LIMBE 2' latitude='-15.8165797' longitude='35.0588435' accuracy='1000.0' />
+ <customer id='1617' name='MANICA' latitude='-18.936156' longitude='32.878397' accuracy='1000.0' />
+ <customer id='1618' name='CHIMOIO SHOPRITE' latitude='-19.1237506744155' longitude='33.4806980629726' accuracy='1000.0' />
+ <customer id='1619' name='TETE.GP SHOPPING CENTRE' latitude='-16.137991' longitude='33.612045' accuracy='1000.0' />
+ <customer id='1620' name='DONDO' latitude='-19.617374' longitude='34.746048' accuracy='1000.0' />
+ <customer id='1621' name='TETE.MN BUILDING' latitude='-16.192266' longitude='33.586361' accuracy='1000.0' />
+ <customer id='1622' name='BEIRA' latitude='-19.829656' longitude='34.844066' accuracy='1000.0' />
+ <customer id='1623' name='TETE' latitude='-16.160251' longitude='33.584381' accuracy='1000.0' />
+ <customer id='1624' name='CHIMOIO' latitude='-19.1162549597565' longitude='33.4802522173277' accuracy='1000.0' />
+ <customer id='1625' name='BEIRA.FOUNTAINS' latitude='-19.834127' longitude='34.835325' accuracy='1000.0' />
+ <customer id='1626' name='BEIRA 2' latitude='-19.828219' longitude='34.840229' accuracy='1000.0' />
+ <customer id='1627' name='BOANE' latitude='-26.044223' longitude='32.325297' accuracy='1000.0' />
+ <customer id='1628' name='MAPUTO MATOLA SPAR' latitude='-25.965397' longitude='32.454376' accuracy='1000.0' />
+ <customer id='1629' name='MATOLA SHOPRITE' latitude='-25.952293' longitude='32.460871' accuracy='1000.0' />
+ <customer id='1630' name='MAPUTO AVE ZEDEQUIAS' latitude='-25.969653' longitude='32.567765' accuracy='1000.0' />
+ <customer id='1631' name='MAPUTO ALTA MAE' latitude='-25.959948' longitude='32.568102' accuracy='1000.0' />
+ <customer id='1632' name='MAPUTO 5' latitude='-25.953261' longitude='32.473055' accuracy='1000.0' />
+ <customer id='1633' name='MAPUTO BAIRRO CENTRAL' latitude='-25.965528' longitude='32.578955' accuracy='1000.0' />
+ <customer id='1634' name='MAPUTO 4' latitude='-25.964893' longitude='32.579942' accuracy='1000.0' />
+ <customer id='1635' name='MAPUTO ALBERT LUTHULI' latitude='-25.967731' longitude='32.565241' accuracy='1000.0' />
+ <customer id='1636' name='MAPUTO 7' latitude='-25.960829' longitude='32.565661' accuracy='1000.0' />
+ <customer id='1637' name='MANHICA' latitude='-25.399356' longitude='32.809307' accuracy='1000.0' />
+ <customer id='1638' name='MACIA 2' latitude='-25.0275874302605' longitude='33.0957583974033' accuracy='1000.0' />
+ <customer id='1639' name='MAPUTO.MAGWAMINE SC' latitude='-25.887111' longitude='32.603347' accuracy='1000.0' />
+ <customer id='1640' name='ZIMPETO MALL' latitude='-25.877529' longitude='32.565206' accuracy='1000.0' />
+ <customer id='1641' name='MAPUTO 1' latitude='-25.952143' longitude='32.57984' accuracy='1000.0' />
+ <customer id='1642' name='PICA PAU' latitude='-25.967903' longitude='32.582242' accuracy='1000.0' />
+ <customer id='1643' name='MAPUTO AVE DE ANGOLA' latitude='-25.931255' longitude='32.574587' accuracy='1000.0' />
+ <customer id='1644' name='MAPUTO 6' latitude='-25.95615' longitude='32.56593' accuracy='1000.0' />
+ <customer id='1645' name='MAPUTO 2' latitude='-25.96076' longitude='32.570591' accuracy='1000.0' />
+ <customer id='1646' name='CUAMBA 2' latitude='-14.800988' longitude='36.537069' accuracy='1000.0' />
+ <customer id='1647' name='GURUE' latitude='-15.467865' longitude='36.978142' accuracy='1000.0' />
+ <customer id='1648' name='MOCUBA' latitude='-16.843858' longitude='36.977717' accuracy='1000.0' />
+ <customer id='1649' name='NAMIALO' latitude='-14.921986' longitude='39.983484' accuracy='1000.0' />
+ <customer id='1650' name='LICHINGA' latitude='-13.313611' longitude='35.243014' accuracy='1000.0' />
+ <customer id='1651' name='QUELIMANE' latitude='-17.877008' longitude='36.88335' accuracy='1000.0' />
+ <customer id='1652' name='NACALA 2' latitude='-14.553763' longitude='40.688598' accuracy='1000.0' />
+ <customer id='1653' name='PEMBA' latitude='-12.967339' longitude='40.510913' accuracy='1000.0' />
+ <customer id='1654' name='NACALA' latitude='-14.544594' longitude='40.673896' accuracy='1000.0' />
+ <customer id='1655' name='NAMPULA 3' latitude='-15.114549' longitude='39.273264' accuracy='1000.0' />
+ <customer id='1656' name='NAMPULA 1' latitude='-15.117514' longitude='39.265214' accuracy='1000.0' />
+ <customer id='1657' name='MASSINGA' latitude='-23.3225951030321' longitude='35.3767695438692' accuracy='1000.0' />
+ <customer id='1658' name='VILANCULOS' latitude='-21.996392' longitude='35.319011' accuracy='1000.0' />
+ <customer id='1659' name='CHÓKWE' latitude='-24.532334' longitude='32.999709' accuracy='1000.0' />
+ <customer id='1660' name='MAXIXE' latitude='-23.862528' longitude='35.346225' accuracy='1000.0' />
+ <customer id='1661' name='INHAMBANE' latitude='-23.868231459861' longitude='35.3819925583818' accuracy='1000.0' />
+ <customer id='1662' name='XAI-XAI 2' latitude='-25.0454194138989' longitude='33.6439453928664' accuracy='1000.0' />
+ <customer id='1663' name='LAGOS.APAPA MALL' latitude='6.447309' longitude='3.362945' accuracy='1000.0' />
+ <customer id='1664' name='BROAD ST' latitude='6.451717' longitude='3.390389' accuracy='1000.0' />
+ <customer id='1665' name='AJAO ESTATE OSOLO WAY' latitude='6.549411' longitude='3.331591' accuracy='1000.0' />
+ <customer id='1666' name='AGUDA.ENITAN ST' latitude='6.495951' longitude='3.340512' accuracy='1000.0' />
+ <customer id='1667' name='YABA SABO' latitude='6.506801' longitude='3.378301' accuracy='1000.0' />
+ <customer id='1668' name='APAPA' latitude='6.442978' longitude='3.370312' accuracy='1000.0' />
+ <customer id='1669' name='OYINGBO BORNO WAY' latitude='6.481271' longitude='3.384241' accuracy='1000.0' />
+ <customer id='1670' name='BODE THOMAS' latitude='6.489971' longitude='3.354269' accuracy='1000.0' />
+ <customer id='1671' name='FESTAC' latitude='6.468575' longitude='3.293881' accuracy='1000.0' />
+ <customer id='1672' name='ILORIN IBRAHIM TAIWO' latitude='8.481503' longitude='4.545432' accuracy='1000.0' />
+ <customer id='1673' name='OGUN SANGO OTA' latitude='6.698339' longitude='3.238655' accuracy='1000.0' />
+ <customer id='1674' name='LAGOS.ISOLO' latitude='6.530295' longitude='3.328966' accuracy='1000.0' />
+ <customer id='1675' name='LAGOS.137 BROAD STREET' latitude='6.456051' longitude='3.382455' accuracy='1000.0' />
+ <customer id='1676' name='IBADAN.IBADAN MALL' latitude='7.363461' longitude='3.866182' accuracy='1000.0' />
+ <customer id='1677' name='IBADAN COCOA MALL' latitude='7.386527' longitude='3.880051' accuracy='1000.0' />
+ <customer id='1678' name='ENUGU.ENUGU POLO PARK' latitude='6.460432' longitude='7.496168' accuracy='1000.0' />
+ <customer id='1679' name='AKURE 12 OYEMEKUN ROAD' latitude='7.255401' longitude='5.183758' accuracy='1000.0' />
+ <customer id='1680' name='IPAJA ROAD' latitude='6.606714' longitude='3.283218' accuracy='1000.0' />
+ <customer id='1681' name='LAGOS.IKORODU TOWN.60 AYANGBUREN ROAD' latitude='6.618468' longitude='3.502861' accuracy='1000.0' />
+ <customer id='1682' name='LAGOS.OJODU BERGER' latitude='6.640275' longitude='3.367733' accuracy='1000.0' />
+ <customer id='1683' name='LAGOS IKEJA AWLOWO HOUSE' latitude='6.597214' longitude='3.340358' accuracy='1000.0' />
+ <customer id='1684' name='LAGOS IGANDO' latitude='6.552109' longitude='3.241721' accuracy='1000.0' />
+ <customer id='1685' name='IKOTUN.IDIMU' latitude='6.545231' longitude='3.274056' accuracy='1000.0' />
+ <customer id='1686' name='IKEJA (ALLEN AVE)' latitude='6.596772' longitude='3.354819' accuracy='1000.0' />
+ <customer id='1687' name='OGBA IJAIYE ROAD' latitude='6.629261' longitude='3.337591' accuracy='1000.0' />
+ <customer id='1688' name='IBADAN CHALLENGE ROAD' latitude='7.349434' longitude='3.879758' accuracy='1000.0' />
+ <customer id='1689' name='ABUJA.GWARIMPA' latitude='9.110437' longitude='7.404023' accuracy='1000.0' />
+ <customer id='1690' name='IDIMU ROAD' latitude='6.580616' longitude='3.283487' accuracy='1000.0' />
+ <customer id='1691' name='MKUSHI' latitude='-13.6237115125601' longitude='29.3955914125413' accuracy='1000.0' />
+ <customer id='1692' name='MPIKA' latitude='-11.8360260787196' longitude='31.4478864843841' accuracy='1000.0' />
+ <customer id='1693' name='KAPIRI MPOSHI' latitude='-13.9724138324045' longitude='28.679103868928' accuracy='1000.0' />
+ <customer id='1694' name='SERENJE' latitude='-13.2361295228418' longitude='30.2341145084745' accuracy='1000.0' />
+ <customer id='1695' name='MANSA' latitude='-11.1975284' longitude='28.8913072' accuracy='1000.0' />
+ <customer id='1696' name='KASAMA' latitude='-10.2054543282184' longitude='31.1887805215146' accuracy='1000.0' />
+ <customer id='1697' name='LUSAKA LIVONIA CENTRE' latitude='-15.4201893246446' longitude='28.2240620564529' accuracy='1000.0' />
+ <customer id='1698' name='LUSAKA TWIN PALMS' latitude='-15.3984388754707' longitude='28.3924429982167' accuracy='1000.0' />
+ <customer id='1699' name='LUSAKA.NORTHRISE MALL' latitude='-15.3564397087872' longitude='28.2747730465089' accuracy='1000.0' />
+ <customer id='1700' name='LUSAKA 6 (CHACHACHA RD)' latitude='-15.416264' longitude='28.280169' accuracy='1000.0' />
+ <customer id='1701' name='KABWE' latitude='-14.4431827' longitude='28.4397761' accuracy='1000.0' />
+ <customer id='1702' name='LUSAKA PHI MALL' latitude='-15.395487040815' longitude='28.357339813029' accuracy='1000.0' />
+ <customer id='1703' name='LUSAKA LEVY BUS PARK' latitude='-15.4148617' longitude='28.2853741' accuracy='10.0' />
+ <customer id='1704' name='LUSAKA 1' latitude='-15.4184302222765' longitude='28.2816020950248' accuracy='1000.0' />
+ <customer id='1705' name='KABWE 2' latitude='-14.4418076' longitude='28.4461129' accuracy='1000.0' />
+ <customer id='1706' name='KALULUSHI' latitude='-12.836538838623' longitude='28.0880643112723' accuracy='1000.0' />
+ <customer id='1707' name='MUFULIRA' latitude='-12.5471092025485' longitude='28.2469341769653' accuracy='1000.0' />
+ <customer id='1708' name='CHILILABOMWE' latitude='-12.372053' longitude='27.849367' accuracy='1000.0' />
+ <customer id='1709' name='SOLWEZI' latitude='-12.182629' longitude='26.401975' accuracy='1000.0' />
+ <customer id='1710' name='KITWE COPPERHILL' latitude='-12.78887' longitude='28.2004471' accuracy='1000.0' />
+ <customer id='1711' name='NDOLA 5' latitude='-13.0048035282856' longitude='28.6502820404645' accuracy='1000.0' />
+ <customer id='1712' name='NDOLA 3' latitude='-12.9721122701682' longitude='28.6496190031936' accuracy='1000.0' />
+ <customer id='1713' name='NDOLA 2' latitude='-12.9595581509964' longitude='28.6333426362872' accuracy='1000.0' />
+ <customer id='1714' name='KAFUBU MALL' latitude='-12.9809874785093' longitude='28.6399575208504' accuracy='1000.0' />
+ <customer id='1715' name='KITWE 2' latitude='-12.8124935785431' longitude='28.2036628225152' accuracy='1000.0' />
+ <customer id='1716' name='CHINGOLA 1' latitude='-12.5452613306044' longitude='27.852009270498' accuracy='1000.0' />
+ <customer id='1717' name='NDOLA 4' latitude='-12.9733188795341' longitude='28.6504884610341' accuracy='1000.0' />
+ <customer id='1718' name='LUANSHYA' latitude='-13.1274677' longitude='28.4136421' accuracy='1000.0' />
+ <customer id='1719' name='CHINGOLA 2' latitude='-12.5443987344773' longitude='27.8634731485059' accuracy='1000.0' />
+ <customer id='1720' name='NDOLA 1' latitude='-12.9741727081634' longitude='28.6475584676894' accuracy='1000.0' />
+ <customer id='1721' name='KITWE 1' latitude='-12.8206133' longitude='28.2103989' accuracy='1000.0' />
+ <customer id='1722' name='MONZE' latitude='-16.2753163362959' longitude='27.4769960871837' accuracy='1000.0' />
+ <customer id='1723' name='KAFUE' latitude='-15.7629945701441' longitude='28.1782681709461' accuracy='1000.0' />
+ <customer id='1724' name='KALOMO' latitude='-17.0267322' longitude='26.4888808' accuracy='1000.0' />
+ <customer id='1725' name='SESHEKE' latitude='-17.475098741766' longitude='24.2849683425744' accuracy='1000.0' />
+ <customer id='1726' name='ARCADES' latitude='-15.3921622094008' longitude='28.3163696748795' accuracy='1000.0' />
+ <customer id='1727' name='LUSAKA.IRINGA MALL' latitude='-15.4242205' longitude='28.2813196' accuracy='52.5' />
+ <customer id='1728' name='LIVINGSTONE 2' latitude='-17.8543695969995' longitude='25.8559106389701' accuracy='1000.0' />
+ <customer id='1729' name='LUSAKA 4 (Manda Hill)' latitude='-15.3976615352125' longitude='28.3061342656762' accuracy='1000.0' />
+ <customer id='1730' name='LUSAKA.EAST PARK MALL' latitude='-15.42265' longitude='28.29327' accuracy='1000.0' />
+ <customer id='1731' name='CHOMA' latitude='-16.815154' longitude='26.988529' accuracy='1000.0' />
+ <customer id='1732' name='MAZABUKA' latitude='-15.8607065961538' longitude='27.7637718455511' accuracy='1000.0' />
+ <customer id='1733' name='LIVINGSTONE 1' latitude='-17.8660668' longitude='25.8555982' accuracy='1000.0' />
+ <customer id='1734' name='LUSAKA 5' latitude='-15.4208138136986' longitude='28.2824549126847' accuracy='1000.0' />
+ <customer id='1735' name='CHOMA 2' latitude='-16.808698' longitude='26.9865721' accuracy='1000.0' />
+ <customer id='1736' name='LUSAKA 2' latitude='-15.4225946355254' longitude='28.2823100378173' accuracy='1000.0' />
+ <customer id='1737' name='SENANGA' latitude='-16.0986100149196' longitude='23.2908600389869' accuracy='1000.0' />
+ <customer id='1738' name='MUMBWA' latitude='-14.987128' longitude='27.06294' accuracy='1000.0' />
+ <customer id='1739' name='MONGU' latitude='-15.2596342379538' longitude='23.1390362682686' accuracy='1000.0' />
+ <customer id='1740' name='PETAUKE' latitude='-14.250444' longitude='31.328516' accuracy='1000.0' />
+ <customer id='1741' name='KATETE' latitude='-14.0560225' longitude='32.0470444' accuracy='1000.0' />
+ <customer id='1742' name='KAOMA' latitude='-14.7991064754944' longitude='24.7961379441848' accuracy='1000.0' />
+ <customer id='1743' name='LUSAKA DOWN TOWN' latitude='-15.43104' longitude='28.28482' accuracy='0.0' />
+ <customer id='1744' name='CHIPATA.SHOPRITE' latitude='-13.6473322458961' longitude='32.6473111160336' accuracy='1000.0' />
+ <customer id='1745' name='LUSAKA MAKENI CNR' latitude='-15.453673637417' longitude='28.2664994002281' accuracy='1000.0' />
+ <customer id='1746' name='CHIPATA' latitude='-13.6406398794486' longitude='32.6465170866567' accuracy='1000.0' />
+ <customer id='1747' name='CHAWAMA' latitude='-15.4603313322014' longitude='28.2830206776987' accuracy='1000.0' />
+ <customer id='1748' name='LUSAKA 3' latitude='-15.417145499325' longitude='28.2788703704267' accuracy='1000.0' />
+ <customer id='1749' name='LUMUMBA' latitude='-15.421841' longitude='28.277751' accuracy='1000.0' />
+ <customer id='1750' name='NYANGA 2' latitude='-18.2343374226092' longitude='32.7386691261503' accuracy='1000.0' />
+ <customer id='1751' name='MUREWA 2' latitude='-17.6475882862129' longitude='31.7771305462344' accuracy='1000.0' />
+ <customer id='1752' name='RUSAPE 1' latitude='-18.5314082' longitude='32.1249699' accuracy='1000.0' />
+ <customer id='1753' name='MOUNT DARWIN 2' latitude='-16.7739851121586' longitude='31.577358211313' accuracy='1000.0' />
+ <customer id='1754' name='MVURWI 1' latitude='-17.0324359563292' longitude='30.8509315935681' accuracy='1000.0' />
+ <customer id='1755' name='CHITUNGWIZA 2' latitude='-18.0087470105761' longitude='31.0801577994493' accuracy='1000.0' />
+ <customer id='1756' name='BINDURA 1' latitude='-17.3079643324535' longitude='31.3329788897548' accuracy='1000.0' />
+ <customer id='1757' name='HARARE 8' latitude='-17.8334712717841' longitude='31.0481807887389' accuracy='1000.0' />
+ <customer id='1758' name='HARARE 12' latitude='-17.8340795604739' longitude='31.0464472431133' accuracy='1000.0' />
+ <customer id='1759' name='HARARE 1ST STREET' latitude='-17.8286712' longitude='31.0493079' accuracy='1000.0' />
+ <customer id='1760' name='MARONDERA 3' latitude='-18.1906364412474' longitude='31.5461979006534' accuracy='1000.0' />
+ <customer id='1761' name='BINDURA 2' latitude='-17.3086910831448' longitude='31.3310294182732' accuracy='1000.0' />
+ <customer id='1762' name='HARARE 5' latitude='-17.8334375777432' longitude='31.0478133452214' accuracy='1000.0' />
+ <customer id='1763' name='HARARE.JASON MOYO' latitude='-17.8308560657458' longitude='31.0503272247708' accuracy='1000.0' />
+ <customer id='1764' name='SANYATI 1' latitude='-17.9877312' longitude='29.2412472' accuracy='1000.0' />
+ <customer id='1765' name='CHEGUTU 1' latitude='-18.1322114' longitude='30.1463439' accuracy='1000.0' />
+ <customer id='1766' name='KAROI 2' latitude='-16.8208684210874' longitude='29.6831691931995' accuracy='1000.0' />
+ <customer id='1767' name='CHEGUTU 3' latitude='-18.1322204' longitude='30.1450958' accuracy='1000.0' />
+ <customer id='1768' name='NEMBUDZIYA' latitude='-17.7149674' longitude='29.0110677' accuracy='1000.0' />
+ <customer id='1769' name='KARIBA 4' latitude='-16.5168551' longitude='28.8479279' accuracy='49.5' />
+ <customer id='1770' name='GOKWE 2' latitude='-18.2168225' longitude='28.938543' accuracy='1000.0' />
+ <customer id='1771' name='CHINHOYI 1' latitude='-17.3593124957197' longitude='30.1931826173064' accuracy='1000.0' />
+ <customer id='1772' name='KADOMA 1' latitude='-18.3380752681171' longitude='29.9139152962178' accuracy='1000.0' />
+ <customer id='1773' name='CHINHOYI 3' latitude='-17.3580852057259' longitude='30.1924838378949' accuracy='1000.0' />
+ <customer id='1774' name='KADOMA 2' latitude='-18.3371835679485' longitude='29.9135335771322' accuracy='1000.0' />
+ <customer id='1775' name='KWEKWE 4' latitude='-18.9261103' longitude='29.8065503' accuracy='1000.0' />
+ <customer id='1776' name='CHIPINGE 3' latitude='-20.1924921' longitude='32.6205703' accuracy='1000.0' />
+ <customer id='1777' name='CHIREDZI 1' latitude='-21.0453126434786' longitude='31.6692556191617' accuracy='1000.0' />
+ <customer id='1778' name='GUTU 1' latitude='-19.6396142620989' longitude='31.1721343156383' accuracy='1000.0' />
+ <customer id='1779' name='CHECHECHE 1' latitude='-20.7656457433513' longitude='32.2249989199497' accuracy='1000.0' />
+ <customer id='1780' name='ZVISHAVANE 3' latitude='-20.3155593035884' longitude='30.0539441559977' accuracy='1000.0' />
+ <customer id='1781' name='CHIREDZI 2' latitude='-21.0450570745431' longitude='31.6701929198526' accuracy='1000.0' />
+ <customer id='1782' name='BEIT BRIDGE 3' latitude='-22.2113235' longitude='29.9913218' accuracy='1000.0' />
+ <customer id='1783' name='GWANDA 1' latitude='-20.941966' longitude='29.006284' accuracy='1000.0' />
+ <customer id='1784' name='MUTARE 3' latitude='-18.9789372' longitude='32.6654364' accuracy='1000.0' />
+ <customer id='1785' name='MASVINGO 1' latitude='-20.0735409' longitude='30.8350971' accuracy='1000.0' />
+ <customer id='1786' name='MUTARE 4' latitude='-18.9772961' longitude='32.6679677' accuracy='1000.0' />
+ <customer id='1787' name='MASVINGO 2' latitude='-20.0723803281261' longitude='30.8316240056601' accuracy='1000.0' />
+ <customer id='1788' name='PLUMTREE 1' latitude='-20.4884951660651' longitude='27.8050933151315' accuracy='1000.0' />
+ <customer id='1789' name='BINGA' latitude='-17.6235384' longitude='27.3436581' accuracy='1000.0' />
+ <customer id='1790' name='HWANGE 3' latitude='-18.356690552908' longitude='26.4926550607643' accuracy='1000.0' />
+ <customer id='1791' name='VIC FALLS 2' latitude='-17.9422594946911' longitude='25.8268012367581' accuracy='1000.0' />
+ <customer id='1792' name='VIC FALLS 1' latitude='-17.9277017639545' longitude='25.8372920649348' accuracy='1000.0' />
+ <customer id='1793' name='BULAWAYO 15' latitude='-20.1572189860554' longitude='28.5817215906054' accuracy='1000.0' />
+ <customer id='1794' name='GWERU 3' latitude='-19.4534580266853' longitude='29.8159132807129' accuracy='1000.0' />
+ <customer id='1795' name='BULAWAYO 16' latitude='-20.1551833339507' longitude='28.584116857843' accuracy='1000.0' />
+ <customer id='1796' name='GWERU 2' latitude='-19.4515681859379' longitude='29.8158404313642' accuracy='1000.0' />
+ <customer id='1797' name='BULAWAYO PIONEER' latitude='-20.1548123' longitude='28.5842934' accuracy='1000.0' />
+ <customer id='1798' name='BULAWAYO 8' latitude='-20.1622763' longitude='28.5911539' accuracy='1000.0' />
+ <customer id='1799' name='BULAWAYO 10' latitude='-17.8270323' longitude='31.0514784' accuracy='30.0' />
+ <customer id='1800' name='BULAWAYO 3' latitude='-17.6236517683328' longitude='27.3437783086832' accuracy='1000.0' />
+ <customer id='1801' name='Henko (Dummy)' latitude='-15.39915' longitude='28.25879' accuracy='1000.0' />
+ <customer id='1802' name='Dummy Store (Evelyn)' latitude='-33.935228' longitude='18.6045921' accuracy='1000.0' />
+ <customer id='1803' name='Dummy Store' latitude='-33.9352468' longitude='18.6046177' accuracy='1000.0' />
+ <customer id='1804' name='Dummy Store (Paul B)' latitude='-33.8441473480885' longitude='18.6774636864639' accuracy='1000.0' />
+ <customer id='1805' name='Dummy Store (Paul)' latitude='-20.1751121581536' longitude='28.5802676316034' accuracy='1000.0' />
+ <customer id='1807' name='Dummy Store (Calvert)' latitude='-15.3576660470926' longitude='28.2751321067053' accuracy='1000.0' />
+ <customer id='1808' name='Dummy Store (Canaan)' latitude='-20.1720565' longitude='28.5752151' accuracy='1000.0' />
+ <customer id='1809' name='Dummy Store (Desire )' latitude='-20.1635672662258' longitude='28.4874420454091' accuracy='1000.0' />
+ <customer id='1810' name='Dummy Store (Olga)' latitude='-8.8154901' longitude='13.2693863' accuracy='1000.0' />
+ <customer id='1811' name='Dummy Store (Raul)' latitude='-8.9239746' longitude='13.1846453' accuracy='1000.0' />
+ <customer id='1812' name='NAMIBE SHOPRITE' latitude='-15.2002431447992' longitude='12.1558693402415' accuracy='1000.0' />
+ <customer id='1813' name='LUANDA NOVA VIDA SHOPRITE' latitude='-8.901929' longitude='13.232058' accuracy='1000.0' />
+ <customer id='1815' name='LUANDA ZANGO  ALIMENTA' latitude='-8.980025' longitude='13.391945' accuracy='1000.0' />
+ <customer id='1816' name='LUANDA CAZENGA MAXI' latitude='-8.816477' longitude='13.296467' accuracy='1000.0' />
+ <customer id='1817' name='NAMIBE SHOPRITE' latitude='-15.2002854' longitude='12.1556496' accuracy='1000.0' />
+ <customer id='1818' name='MAPUTO INTERFRANCA' latitude='-25.968896' longitude='32.579189' accuracy='1000.0' />
+ <customer id='1819' name='NAMPULA EDUARDO MONDLANE' latitude='-15.118568' longitude='39.26587' accuracy='1000.0' />
+ <customer id='1820' name='LAGOS OGUDU 127 OGUDU ROAD' latitude='6.57638055555555' longitude='3.39025833333333' accuracy='1000.0' />
+ <customer id='1821' name='DELTA WARRI DELTA  MALL' latitude='5.571259' longitude='5.782795' accuracy='1000.0' />
+ <customer id='1822' name='ILORIN 127 MURTALA MOHAMMED RD' latitude='8.48574166666666' longitude='4.56502499999999' accuracy='1000.0' />
+ <customer id='1823' name='ABUJA GRAND TOWERS' latitude='8.98481666666666' longitude='7.49300555555555' accuracy='1000.0' />
+ <customer id='1824' name='KITWE MAKUBA MALL' latitude='-12.8064668' longitude='28.2206567' accuracy='1000.0' />
+ <customer id='1825' name='CHILILABOMBWE SHOPRITE' latitude='-12.373702' longitude='27.850268' accuracy='1000.0' />
+ <customer id='1826' name='LUSAKA EMBASSY MALL' latitude='-15.4456074' longitude='28.2732675' accuracy='1000.0' />
+ <customer id='1827' name='HARARE HIGHGLEN SHOPPING MALL' latitude='-17.8814602636595' longitude='30.9560606621989' accuracy='1000.0' />
+ <customer id='1828' name='LUANDA BENFICA 21 JANEIRO' latitude='-8.93739' longitude='13.161853' accuracy='1000.0' />
+ <customer id='1829' name='Dummy Thys' latitude='-33.7424918029164' longitude='18.9628601160894' accuracy='1000.0' />
+ <customer id='1830' name='Dummy' latitude='-33.935012' longitude='18.6053657' accuracy='1000.0' />
+ <customer id='1831' name='Dummy Store (Cain)' latitude='-18.9265994' longitude='29.806456' accuracy='36.59700012207031' />
+ <customer id='1832' name='Dummy Store (Solani)' latitude='-20.0722984' longitude='30.8317276' accuracy='63.0' />
+ <customer id='1835' name='HARARE KAGUVI STREET' latitude='-17.8376016857269' longitude='31.0403286671461' accuracy='1000.0' />
+ <customer id='1836' name='Dummy Store (Obino)' latitude='-15.3980179002962' longitude='28.2569742105993' accuracy='1000.0' />
+ <customer id='1840' name='CHINHOYI LAPF CENTRE' latitude='-17.8325988754395' longitude='31.0480025922753' accuracy='1000.0' />
+ <customer id='1841' name='Cazenga Tanque' latitude='-8.8184929' longitude='13.2797614' accuracy='1000.0' />
+ <customer id='1842' name='Sao Paulo' latitude='-8.8154986' longitude='13.2694382' accuracy='1000.0' />
+ <customer id='1843' name='Dummy Store (Louis)' latitude='-20.15413' longitude='28.58683' accuracy='1000.0' />
+ <customer id='1844' name='Dummy Store (Fanuel)' latitude='-19.1899149889812' longitude='28.50952625' accuracy='1000.0' />
+ <customer id='1845' name='Dummy Store (Kobus)' latitude='7.14109772782542' longitude='4.60327625000002' accuracy='1000.0' />
+ <customer id='1846' name='Kuito Shoprite' latitude='-12.4213493' longitude='16.9343402' accuracy='1000.0' />
+ <customer id='1847' name='CHINGOLA THE PARK' latitude='-15.3934404979516' longitude='28.322758671875' accuracy='1000.0' />
+ <customer id='1848' name='Mongu' latitude='-15.2577072' longitude='23.138638' accuracy='1000.0' />
+ <customer id='1849' name='Chawama' latitude='-15.3993512' longitude='28.2587938' accuracy='1000.0' />
+ <customer id='1850' name='LUANDA CAZENGA TANQUE' latitude='-8.54095507549723' longitude='13.39233875' accuracy='1000.0' />
+ <customer id='1851' name='LUANDA ZANGO ROTUNDA' latitude='-8.71474704068434' longitude='13.304448125' accuracy='1000.0' />
+ <customer id='1852' name='LAGOS IKORODU 60 LAGOS RD' latitude='6.70484970031182' longitude='3.46069812500002' accuracy='1000.0' />
+ <customer id='1853' name='MATOLA MACHAVA PLAZA' latitude='-25.9125' longitude='32.496836' accuracy='1000.0' />
+ <customer id='1854' name='LUSAKA TAFIKA COMMERCIAL CENTRE' latitude='-15.426089' longitude='28.269671' accuracy='1000.0' />
+ <customer id='1855' name='KUITO SHOPRITE' latitude='-12.421168' longitude='16.934225' accuracy='1000.0' />
+ <customer id='1856' name='MATOLA MALHAMPSENE' latitude='-25.8388264525179' longitude='32.4604845019531' accuracy='1000.0' />
+ <customer id='1857' name='LUANDA CACUACO SHOPRITE' latitude='-8.767941' longitude='13.392796' accuracy='1000.0' />
+ <customer id='1858' name='Mozambique Dummy Store' latitude='-25.9756194' longitude='32.5679983' accuracy='34.9739990234375' />
+ <customer id='1860' name='Test Store Janine' latitude='-33.878606' longitude='18.5710396' accuracy='20.0' />
+ <customer id='1861' name='Dummy Flavio' latitude='-12.7415819' longitude='13.3521569' accuracy='15.0' />
+</customers>

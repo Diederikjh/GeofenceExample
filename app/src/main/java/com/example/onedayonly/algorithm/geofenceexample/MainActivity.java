@@ -2,9 +2,11 @@ package com.example.onedayonly.algorithm.geofenceexample;
 
 import android.app.PendingIntent;
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
@@ -14,6 +16,9 @@ import com.google.android.gms.location.Geofence;
 import com.google.android.gms.location.GeofencingRequest;
 import com.google.android.gms.location.LocationServices;
 
+import org.xmlpull.v1.XmlPullParserException;
+
+import java.io.IOException;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
@@ -39,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                     .build();
         }
 
-        mGeofenceList = new ArrayList<Geofence>();
+        mGeofenceList = new ArrayList<>();
 
         createGeofenceList();
     }
@@ -118,6 +123,12 @@ public class MainActivity extends AppCompatActivity {
         ).setResultCallback(new StatusResultCallback()); // Result processed in onResult().
     }
 
+    public void loadCustomer(View v){
+        // NOTE loads customer on async task, as hogging the UI thread is bad.
+        LoadCustomerAsyncTask task = new LoadCustomerAsyncTask();
+        task.execute();
+    }
+
     private static class MyOnConnectionFailedListener implements GoogleApiClient.OnConnectionFailedListener {
 
         @Override
@@ -143,6 +154,23 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onConnectionSuspended(int i) {
             Log.e(LOG_TAG, "Connection suspended");
+        }
+    }
+
+    private class LoadCustomerAsyncTask extends AsyncTask<Void, Void, Void>
+    {
+
+        @Override
+        protected Void doInBackground(Void... voids) {
+
+            CustomerLoader loader = new CustomerLoader();
+            try {
+                loader.loadCustomersFromXMLFile(MainActivity.this);
+            } catch (XmlPullParserException | IOException e) {
+                Log.e(LOG_TAG, "Could not load XML", e);
+            }
+
+            return null;
         }
     }
 }
