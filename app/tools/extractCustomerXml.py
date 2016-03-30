@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# Note please use only with python 3 as UTF is awesome
+
 import argparse
 import sqlite3
 
